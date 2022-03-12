@@ -5,15 +5,13 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Welcome to my garden! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  I'm just starting to plant seeds here, but feel free to take a look at my <span style="font-weight: bold">[[coding]]</span> or <span style="font-weight: bold">[[personal]]</span> sections to get an idea of what's taking root.
 </p>
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
-
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@vaillancourtmax)](https://twitter.com/vaillancourtmax). 👋
 
 <style>
   .wrapper {
